@@ -1,2 +1,2 @@
-# multi-modal_models
+# Multi-Modal Models
 Multi-modal models and related algorithms
